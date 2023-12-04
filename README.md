@@ -1,4 +1,4 @@
-# Amateurfunk Experiemnte
+# Amateurfunk Experimente
 
 Wenn Sie auf diese Seite gelangt sind, sind Sie wahrscheinlich dem in unseren Aussendungen auf 2m oder 70cm genannten Link gefolgt.
 Au&szlig;er dieser gesprochenen Identifizierung konnten h&ouml;rten Sie digitale Signale.
