@@ -14,9 +14,10 @@ Bei allen Aussendungen handelt es sich um Experimente zur Erprobung von neuartig
 Die Experiemente werden im Rahmen von Masterarbeiten bei [SEEMOO](https://www.seemoo.tu-darmstadt.de/) an der [TU Darmstadt](https://www.tu-darmstadt.de/) durchgef&uuml;hrt.
 
 Alle Signale werden im Basisband digital moduliert und per FM mit einer Bandbreite von 12,5kHz &uuml;bertragen.
+[rattlegram-cli](https://github.com/meinscheins/rattlegram-cli)
 
 ## Details
 | Datum/Uhrzeit | Frequenz | Verfahren (in dieser Reihenfolge) |
 |---------------|----------|-----------------------------------|
-|               |          |                                   |
+|   06.12.23  13-17 Uhr   |433.625MHz| AX.25(1200bps), [rattlegram-cli](https://github.com/meinscheins/rattlegram-cli) BPSK, QPSK, 8PSK|
 |               |          |                                   |
